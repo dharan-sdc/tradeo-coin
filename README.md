@@ -80,11 +80,19 @@ One of the critical issues in crypto trading platforms is **wallet-to-wallet tra
 ```bash
 cd backend
 ./mvnw spring-boot:run
-
+```
 ### Frontend Setup
 
 ```bash
 cd frontend
 npm install
 npm run dev
+```
 
+### Contributing
+We welcome contributions! Please fork the repository and submit a pull request.
+
+### License
+This project is licensed under the MIT License.
+
+Built with 💙 by the TradeO Team.
