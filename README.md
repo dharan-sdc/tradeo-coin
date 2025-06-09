@@ -58,9 +58,8 @@ One of the critical issues in crypto trading platforms is **wallet-to-wallet tra
 
 ![Screenshot 2025-04-26 230047](https://github.com/user-attachments/assets/41e9e79e-fa20-4d7f-bda0-f6ff09408f9b)
 
-![unnamed](https://github.com/user-attachments/assets/b2f2869d-82a5-4864-934e-737c50ff8130)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b2f2869d-82a5-4864-934e-737c50ff8130" alt="TradeO Screenshot" width="600"/>
+  <img src="https://github.com/user-attachments/assets/b2f2869d-82a5-4864-934e-737c50ff8130" alt="TradeO Screenshot" width="500"/>
 </p>
 
 
