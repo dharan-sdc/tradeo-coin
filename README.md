@@ -80,3 +80,11 @@ One of the critical issues in crypto trading platforms is **wallet-to-wallet tra
 ```bash
 cd backend
 ./mvnw spring-boot:run
+
+### Frontend Setup
+
+```bash
+cd frontend
+npm install
+npm run dev
+
